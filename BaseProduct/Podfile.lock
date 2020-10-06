@@ -1,0 +1,125 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - Bugly (2.5.71)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - GKPhotoBrowser (2.1.0):
+    - GKPhotoBrowser/SD (= 2.1.0)
+  - GKPhotoBrowser/SD (2.1.0):
+    - SDWebImage (~> 5.0)
+  - IQKeyboardManager (6.5.6)
+  - JXCategoryView (1.5.6)
+  - JXPagingView/Pager (2.0.12)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.2.0)
+  - MJExtension (3.2.2)
+  - MJRefresh (3.5.0)
+  - MMKV (1.2.2):
+    - MMKVCore (~> 1.2.2)
+  - MMKVCore (1.2.2)
+  - SDCycleScrollView (1.80):
+    - SDWebImage (>= 5.0.0)
+  - SDWebImage (5.9.1):
+    - SDWebImage/Core (= 5.9.1)
+  - SDWebImage/Core (5.9.1)
+  - SVProgressHUD (2.2.5)
+  - Toast (4.0.0)
+  - TZImagePickerController (3.4.2)
+  - "UITableView+FDTemplateLayoutCell (1.6)"
+  - YTKNetwork (3.0.4):
+    - AFNetworking/NSURLSession (~> 4.0)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+  - zhPopupController (2.0.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Bugly
+  - FMDB
+  - GKPhotoBrowser
+  - IQKeyboardManager
+  - JXCategoryView
+  - JXPagingView/Pager
+  - Masonry
+  - MBProgressHUD
+  - MJExtension
+  - MJRefresh
+  - MMKV
+  - SDCycleScrollView
+  - SDWebImage
+  - SVProgressHUD
+  - Toast
+  - TZImagePickerController
+  - "UITableView+FDTemplateLayoutCell"
+  - YTKNetwork
+  - YYKit
+  - zhPopupController
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - AFNetworking
+    - Bugly
+    - FMDB
+    - GKPhotoBrowser
+    - IQKeyboardManager
+    - JXCategoryView
+    - JXPagingView
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - MMKV
+    - MMKVCore
+    - SDCycleScrollView
+    - SDWebImage
+    - SVProgressHUD
+    - Toast
+    - TZImagePickerController
+    - "UITableView+FDTemplateLayoutCell"
+    - YTKNetwork
+    - YYKit
+    - zhPopupController
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  Bugly: fd066c75c4a0eca1440f9b6a84bd37d51bfc85ac
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  GKPhotoBrowser: 5faf2b641765940c082d33b58f7a21b68ecd8f3b
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  JXCategoryView: 603ccd8277a89b1a73e9cedb9d8ed4b294576008
+  JXPagingView: 8271bfc6b380ccaf7af8c3075ab162245e96a4c9
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJExtension: d9b9c74cbdeb724c1e9ecbb157b318276e62e876
+  MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
+  MMKV: b14909757d8b70e2aa89ff1c6d56a7b239e10a29
+  MMKVCore: 6225324fe5006026bc86ef8641d567e00c6582f3
+  SDCycleScrollView: b3c9a5ed840c771c4938978174c7c9d9feefeb96
+  SDWebImage: a990c053fff71e388a10f3357edb0be17929c9c5
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+  TZImagePickerController: cc0b74d5f01ab4cddcc24dcdfc3c7d68e6261056
+  "UITableView+FDTemplateLayoutCell": 5c949b4a5059c404b442926c0e80f81d10a2d66f
+  YTKNetwork: a096f80c18c7e7cc0e623a0fbea0a1bfd3f5bcf2
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+  zhPopupController: 600aee950c86442c5cca0b078d94c71fe0e1c51e
+
+PODFILE CHECKSUM: f744dd7cb1392f56c03b45f2bc27776a019b824d
+
+COCOAPODS: 1.9.1

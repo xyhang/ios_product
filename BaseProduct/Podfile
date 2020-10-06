@@ -1,0 +1,47 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '10.0'
+source 'https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git'
+# source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'BaseProduct' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for BaseProduct
+
+  pod 'SDWebImage'
+
+  pod 'AFNetworking'
+  pod 'MJExtension'
+  pod 'Masonry'
+  pod 'SDCycleScrollView'
+  pod 'MJRefresh'
+  pod 'YTKNetwork'
+  pod 'MMKV'
+  pod 'zhPopupController'
+
+
+
+
+  pod 'TZImagePickerController'
+  pod 'UITableView+FDTemplateLayoutCell'
+  pod 'SVProgressHUD'
+  pod 'IQKeyboardManager'
+  pod 'Toast'
+  pod 'YYKit'
+  pod 'MBProgressHUD'
+  pod 'FMDB'
+  
+  
+
+  
+  pod 'GKPhotoBrowser'
+  pod 'JXCategoryView'
+  pod 'JXPagingView/Pager'
+
+
+  pod 'Bugly'
+ 
+
+end

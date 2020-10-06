@@ -1,0 +1,74 @@
+//
+//  product.pch
+//  BaseProduct
+//
+//  Created by zhima on 2020/10/6.
+//  Copyright © 2020 zhima. All rights reserved.
+//
+
+#ifndef product_pch
+#define product_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+//全局宏
+#import "UtilsMacros.h"
+#import "URLMacros.h"
+#import "FontAndColorMacros.h"
+#import "CommonMacros.h"
+
+// 工具类
+#import "NSString+tool.h"
+#import "UIImage+tool.h"
+#import "UIView+tool.h"
+#import "UIColor+tool.h"
+#import "UIViewController+tool.h"
+#import "UIImage+tool.h"
+
+/// 三方库
+#import <YYKit.h>
+#import <YTKNetwork.h>
+//#import <SDWebImageFLPlugin/SDWebImageFLPlugin.h>
+#import <IQKeyboardManager.h>
+#import <MBProgressHUD.h>
+#import <AVFoundation/AVFoundation.h>
+#import <TZImagePickerController.h>
+#import <zhPopupController/zhPopupController.h>
+#import <Masonry.h>
+#import <MJRefresh.h>
+#import <MJExtension.h>
+#import <SDWebImage/UIImageView+WebCache.h>
+#import <SDWebImage/UIButton+WebCache.h>
+//#import <ShareSDK/ShareSDK.h>
+//#import <ShareSDKUI/ShareSDKUI.h>
+//#import <AgoraRtcKit/AgoraRtcEngineKit.h>
+#import <Toast.h>
+#import <MMKV.h>
+
+
+#import <AFNetworking.h>
+#import "SVProgressHUD.h"
+
+#import <JXPagerView.h>
+#import <JXCategoryView.h>
+
+
+/// 普通类
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "AppDelegate.h"
+#import "AppDelegate+AppService.h"
+#import "BaseViewController.h"
+#import "BaseTableViewController.h"
+#import "RootNavigationController.h"
+#import "EmptyView.h"
+
+/// manager
+#import "UserManager.h"
+#import "AppManager.h"
+#import "PopControllerManager.h"
+#import "ShareManager.h"
+
+
+#endif /* product_pch */

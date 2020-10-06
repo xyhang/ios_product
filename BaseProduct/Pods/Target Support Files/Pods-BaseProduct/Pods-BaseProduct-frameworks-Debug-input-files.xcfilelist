@@ -1,0 +1,22 @@
+${PODS_ROOT}/Target Support Files/Pods-BaseProduct/Pods-BaseProduct-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/FMDB/FMDB.framework
+${BUILT_PRODUCTS_DIR}/GKPhotoBrowser/GKPhotoBrowser.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManager/IQKeyboardManager.framework
+${BUILT_PRODUCTS_DIR}/JXCategoryView/JXCategoryView.framework
+${BUILT_PRODUCTS_DIR}/JXPagingView/JXPagingView.framework
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/MJExtension/MJExtension.framework
+${BUILT_PRODUCTS_DIR}/MJRefresh/MJRefresh.framework
+${BUILT_PRODUCTS_DIR}/MMKV/MMKV.framework
+${BUILT_PRODUCTS_DIR}/MMKVCore/MMKVCore.framework
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/SDCycleScrollView/SDCycleScrollView.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/TZImagePickerController/TZImagePickerController.framework
+${BUILT_PRODUCTS_DIR}/Toast/Toast.framework
+${BUILT_PRODUCTS_DIR}/UITableView+FDTemplateLayoutCell/UITableView_FDTemplateLayoutCell.framework
+${BUILT_PRODUCTS_DIR}/YTKNetwork/YTKNetwork.framework
+${BUILT_PRODUCTS_DIR}/YYKit/YYKit.framework
+${BUILT_PRODUCTS_DIR}/zhPopupController/zhPopupController.framework
